@@ -1,37 +1,13 @@
-font-family: 'Montserrat', sans-serif;
-font-family: 'Playfair Display', serif;
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Playfair Display', serif; */
 
-body {
-    font-family: "Poppins", sans-serif;
-  }
+/* Estilos base  */
 
-  ul {
-    padding-left: 24px;
-  }
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
-  li {
-    margin-bottom: 8px;
-  }
 
-  .welcome {
-    max-width: 800px;
-    margin: 0 auto;
-  }
 
-  .welcome-text {
-    margin-top: 30vh;
-    font-weight: 500;
-  }
-
-  .welcome-text p {
-    font-size: 1rem;
-    font-weight: 400;
-  }
-
-  .welcome-text h1 {
-    font-size: 1.5rem;
-  }
-
-  .welcome-text a {
-    color: #f7542e;
-  }
