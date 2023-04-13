@@ -41,3 +41,51 @@ h1{
   border-radius: 12px;  
 
 }
+
+
+/* INFORMACION EXTRA */
+
+.container_information_extra
+{
+  display: flex;
+  flex-wrap: wrap;
+}
+.information_extra{
+  display: flex;
+  width: 33%;
+}
+
+/* selecciona el primer elemento  con esa clase*/
+.information_extra:first-child{
+ 
+  width: 100%;
+   /* para que quede solo el elemento en la fila  */
+   margin: 20px 0 ;
+}
+
+.information_img{
+  width: 25.17px;
+  height: 22.17px;
+}
+
+.titleInformation{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 8px;
+  font-weight: 700;
+  color: #BDBDBD ;
+  line-height: 9.75px;
+
+}
+
+.textInformation{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 10px;
+  color: #333333 ;
+  font-weight: 500;
+}
+
+/* seleccionar el primer elemento  con esa clase*/
+.information_extra:first-child .textInformation {
+  color: #F2994A;
+
+}
