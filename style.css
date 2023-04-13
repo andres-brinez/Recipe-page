@@ -138,6 +138,8 @@ h2.information_title{
   line-height: 25px;
   font-weight: 400;
   margin-left:10px ;
+  border: solid 1px blue;
+  text-align: left;
 }
 
 .bold{
