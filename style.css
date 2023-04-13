@@ -49,6 +49,7 @@ h1{
 {
   display: flex;
   flex-wrap: wrap;
+  margin-bottom: 30px;
 }
 .information_extra{
   display: flex;
@@ -88,4 +89,61 @@ h1{
 .information_extra:first-child .textInformation {
   color: #F2994A;
 
+}
+
+h2.information_title{
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  color: #333333 ;
+  line-height:31.99px;
+  margin-bottom: 25px;
+
+}
+
+/* Ingredientes */
+.container-ingredient{
+  border: solid 1px red ;
+  margin-bottom: 30px;
+}
+
+.ingredient_name{
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 18px;
+  font-style: italic;
+  font-weight: 400;
+  color: #333333 ;
+  line-height: 23.99px;
+  margin-bottom: 20px;
+
+}
+
+.containerDescrition{
+  display: flex;
+  align-items:flex-start;
+  margin-bottom: 10px;
+ 
+}
+
+.containerDescrition input {
+  height: 20px;
+}
+
+
+.ingredient_Description .description
+{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  color: #333333 ;
+  line-height: 25px;
+  font-weight: 400;
+  margin-left:10px ;
+}
+
+.bold{
+  font-weight: 700;
+}
+.italic{
+  font-style: italic;
+  color: #242424;
 }
