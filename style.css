@@ -25,6 +25,7 @@ h1{
 
 }
 
+
 .containerDescription-text{
   font-family: 'Montserrat', sans-serif;
   font-style: italic;
@@ -158,5 +159,16 @@ h2.information_title{
 .italic{
   font-style: italic;
   color: #242424;
+}
+
+/* Extra */
+.containerSource p{
+  font-family: Montserrat;
+font-size: 12px;
+font-style: italic;
+font-weight: 400;
+line-height: 18px;
+color: #BDBDBD;
+margin: 20px 0 10px  0 ;
 }
 
