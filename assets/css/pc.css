@@ -4,7 +4,7 @@ font-family: 'Playfair Display', serif; */
 
 
 body{
-    padding: 0 40px;           
+    padding: 0 14%;           
 }
 
 /* HEADER */
@@ -14,7 +14,7 @@ h1 {
 }
 
 .containerDescription {
-    width: 60%;
+    width: 80%;
 
 }
 
@@ -25,58 +25,68 @@ h1 {
 }
 
 .img-food {
-    width: 70%;
+    width: 90%;
 
 }
 
+/* OTRO */
+
+main{
+    display: flex;
+    margin-top: 80px;
+}
+
+.container_information{
+    width: 70%;
+    border: solid 1px blue;
+}
 
 /* INFORMACION EXTRA */
 
+
 .container_information_extra {
-    display: flex;
-    flex-wrap: wrap;
-    margin-bottom: 30px;
+    width: 20%;
+    height: auto;
+    order: 1;
+    display: block;
+    margin-left: 18px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 12px;
+
 }
 
-.information_extra {
-    display: flex;
-    width: 33%;
-}
 
 /* selecciona el primer elemento  con esa clase*/
-.information_extra:first-child {
-
-    width: 100%;
+.information_extra:first-child{
+ 
     /* para que quede solo el elemento en la fila  */
-    margin: 20px 0;
+    margin: 50px 0 ;
 }
 
-.information_img {
-    width: 25.17px;
-    height: 22.17px;
+
+.information_extra{
+    width: 100%;
+    margin-bottom: 50px;
+  }
+
+.information_img {    
+    width: 33.17px;
+    height: 30.17px;
 }
 
 .titleInformation {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 8px;
-    font-weight: 700;
-    color: #BDBDBD;
-    line-height: 9.75px;
+    font-size: 15px;
+    line-height: normal;
+    margin-bottom: 2px;
 
 }
 
 .textInformation {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 10px;
-    color: #333333;
-    font-weight: 500;
-}
-
-/* seleccionar el primer elemento  con esa clase*/
-.information_extra:first-child .textInformation {
-    color: #F2994A;
+    font-size: 20px;
 
 }
+
+/* Ingredientes e instrucciones  */
 
 h2.information_title {
     font-family: 'Playfair Display', sans-serif;
@@ -88,9 +98,10 @@ h2.information_title {
 
 }
 
-/* Ingredientes e instrucciones  */
 .container-ingredient {
+    order: 2;
     margin-bottom: 30px;
+    
 
 }
 
