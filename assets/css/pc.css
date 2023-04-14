@@ -2,9 +2,8 @@
 font-family: 'Playfair Display', serif; */
 
 
-
 body{
-    padding: 0 14%;           
+    padding: 0 20%;           
 }
 
 /* HEADER */
@@ -14,7 +13,7 @@ h1 {
 }
 
 .containerDescription {
-    width: 80%;
+    width: 100%;
 
 }
 
@@ -24,10 +23,6 @@ h1 {
 
 }
 
-.img-food {
-    width: 90%;
-
-}
 
 /* OTRO */
 
@@ -37,8 +32,7 @@ main{
 }
 
 .container_information{
-    width: 70%;
-    border: solid 1px blue;
+    width: 75%;
 }
 
 /* INFORMACION EXTRA */
@@ -50,7 +44,7 @@ main{
     order: 1;
     display: block;
     margin-left: 18px;
-    padding-left: 10px;
+    padding:  0 10px;
     box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
     border-radius: 12px;
 
@@ -83,14 +77,21 @@ main{
 }
 
 .textInformation {
-    font-size: 20px;
+    font-size: 15px;
 
 }
 
 /* Ingredientes e instrucciones  */
 
+.container-ingredient {
+    margin-bottom: 50px;
+  
+  }
+
 h2.information_title {
     font-size: 28px;
+    margin-bottom: 40px;
+
 
 }
 
@@ -114,7 +115,7 @@ h2.information_title {
 
 .ingredient_Description .description,
 .instruction_Description {
-    font-size: 20px;    
+    font-size: 15px;    
 }
 
 
