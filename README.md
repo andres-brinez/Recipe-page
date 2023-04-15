@@ -38,8 +38,7 @@ El proyecto consiste en crear una página web de recetas culinarias, siguiendo u
 <!-- OVERVIEW -->
 
 ## Overview
-
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![aa](https://user-images.githubusercontent.com/94869227/232177444-82e71f2f-e7bc-427e-a93c-e46f452e2ce9.jpg)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
