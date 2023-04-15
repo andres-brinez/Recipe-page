@@ -38,22 +38,17 @@ El proyecto consiste en crear una página web de recetas culinarias, siguiendo u
 <!-- OVERVIEW -->
 
 ## Overview
+
 ![aa](https://user-images.githubusercontent.com/94869227/232177444-82e71f2f-e7bc-427e-a93c-e46f452e2ce9.jpg)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- HTML
+- Css Responsive Styles
 
 ## Features
 
@@ -61,6 +56,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/TtUjDt19eIHxNQ4n5jps) was to build an application to complete the following user stories:
 
-- [x] User story: This is a completed user stories
-- [ ] User story: This is a incompleted user stories
-- [ ] User story: This is a incompleted 2nd user stories
+- [x] User story: Puedo ver una receta con ingredientes e instrucciones
+- [ ] User story: puedo seleccionar una casilla de verificación si tengo los ingredientes
+- [ ] User story: Puedo ver la cantidad de porciones, tiempos de horneado
+
