@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">Recipe Hub</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -12,17 +12,19 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://andres-brinez.github.io/Recipe-page/">
       Solution
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-challenge}">
+    <a href="https://devchallenges.io/solutions/4WwCx0BcsNLwwmxloKrz">
       Challenge
     </a>
   </h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
+
+El proyecto consiste en crear una página web de recetas culinarias, siguiendo un diseño específico proporcionado por DevChallenges. La página web debe ser responsive, lo que significa que se debe adaptar a diferentes tamaños de pantalla y dispositivos. Además, se debe incluir una receta completa con sus respectivos ingredientes e instrucciones, así como también una opción para que los usuarios puedan marcar los ingredientes que ya tienen en casa. También se debe mostrar la cantidad de porciones y los tiempos de horneado de la receta. El objetivo principal es crear una experiencia de usuario intuitiva y agradable, permitiendo a los usuarios acceder fácilmente a la información que necesitan para cocinar la receta.
 
 ## Table of Contents
 
