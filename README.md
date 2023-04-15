@@ -28,6 +28,8 @@
 
 El proyecto consiste en crear una página web de recetas culinarias, siguiendo un diseño específico proporcionado por DevChallenges. La página web debe ser responsive, lo que significa que se debe adaptar a diferentes tamaños de pantalla y dispositivos. Además, se debe incluir una receta completa con sus respectivos ingredientes e instrucciones, así como también una opción para que los usuarios puedan marcar los ingredientes que ya tienen en casa. También se debe mostrar la cantidad de porciones y los tiempos de horneado de la receta. El objetivo principal es crear una experiencia de usuario intuitiva y agradable, permitiendo a los usuarios acceder fácilmente a la información que necesitan para cocinar la receta.
 
+<br>
+<br>
 
 <!-- OVERVIEW -->
 
@@ -35,7 +37,8 @@ El proyecto consiste en crear una página web de recetas culinarias, siguiendo u
 
 ![aa](https://user-images.githubusercontent.com/94869227/232177444-82e71f2f-e7bc-427e-a93c-e46f452e2ce9.jpg)
 
-
+<br>
+<br>
 
 ### Built With
 
@@ -43,6 +46,9 @@ El proyecto consiste en crear una página web de recetas culinarias, siguiendo u
 
 - HTML
 - Css Responsive Styles
+
+<br>
+<br>
 
 ## Features
 
@@ -53,4 +59,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 - [x] User story: Puedo ver una receta con ingredientes e instrucciones
 - [ ] User story: puedo seleccionar una casilla de verificación si tengo los ingredientes
 - [ ] User story: Puedo ver la cantidad de porciones, tiempos de horneado
+
+
 
