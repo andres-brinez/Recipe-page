@@ -57,8 +57,8 @@ El proyecto consiste en crear una página web de recetas culinarias, siguiendo u
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/TtUjDt19eIHxNQ4n5jps) was to build an application to complete the following user stories:
 
 - [x] User story: Puedo ver una receta con ingredientes e instrucciones
-- [ ] User story: puedo seleccionar una casilla de verificación si tengo los ingredientes
-- [ ] User story: Puedo ver la cantidad de porciones, tiempos de horneado
+- [x] User story: puedo seleccionar una casilla de verificación si tengo los ingredientes
+- [x] User story: Puedo ver la cantidad de porciones, tiempos de horneado
 
 
 
